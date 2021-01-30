@@ -1,6 +1,10 @@
 {
   "dependencies": {
-    "joi": "^17.3.0"
+    "gatsby-plugin-typography": "^2.11.0",
+    "joi": "^17.3.0",
+    "react-typography": "^0.16.19",
+    "typography": "^0.16.19",
+    "typography-theme-fairy-gates": "^0.16.19"
   },
   "name": "gatsby-practice"
 }
