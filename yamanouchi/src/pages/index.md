@@ -29,5 +29,3 @@ topImage: "../images/top/kv_top_hotel.png"
   こだわりのメニューに舌鼓
 4. 観光ターミナル
   豊富な周辺観光
-
-1. 駅近で大自然
